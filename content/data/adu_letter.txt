@@ -1,0 +1,368 @@
+STATE OF CALIFORNIA – CALIFORNIA NATURAL RESOURCES AGENCY GAVIN NEWSOM, GOVERNOR
+CALIFORNIA COASTAL COMMISSION
+455 MARKET STREET, SUITE 300
+SAN FRANCISCO, CA 94105-2421
+VOICE (415) 904-5200
+FAX (415) 904-5400
+To: Planning Directors of Coastal Cities and Counties
+From: John Ainsworth, Executive Director, California Coastal Commission
+Date: January 21, 2022
+RE: Updates Regarding the Implementation of New ADU Laws
+_____________________________________________________________________________________
+I. Introduction
+California’s ongoing housing crisis continues to exacerbate housing inequity and affordability,
+especially in the coastal zone. To address this critical issue, the state Legislature has enacted a
+number of laws in the last several years that are designed to reduce barriers to providing
+housing and to encourage construction of additional housing units in appropriate locations. To
+this end, the 2019 legislative session resulted in a series of changes to state housing laws that
+facilitate the development of Accessory Dwelling Units (ADUs) and Junior Accessory Dwelling
+Units (JADUs), which can help provide additional housing units that can be more affordable
+than other forms of market rate housing. Importantly, the changes did not modify existing
+provisions of state housing law that explicitly recognize that local governments must still abide
+by the requirements of the Coastal Act, and by extension, Local Coastal Programs (LCPs). Thus,
+provisions on coastal resource protection must be incorporated into the planning and
+development process, and into updated LCP J/ADU requirements, when considering J/ADUs in
+the coastal zone.
+The Coastal Commission strongly encourages local governments to update their LCPs with
+J/ADU provisions in a manner that harmonizes the State’s housing laws with the Coastal Act.
+Doing so would protect the State’s coastal resources while also reducing barriers to
+constructing J/ADUs and helping to promote more affordable coastal housing.
+The Coastal Commission has previously circulated three memos to assist local governments
+with understanding how to carry out their Coastal Act obligations while also implementing state
+requirements regarding the regulation of J/ADUs. These memos have raised some questions for
+local governments, including the manner in which they are to be understood together. In order
+to address this issue, and to reflect lessons learned regarding J/ADU regulation in the coastal
+zone in the past few years, this updated memo supersedes and replaces these prior memos.
+This updated memo also elaborates on the changes to state housing laws that went into effect
+on January 1, 2020 and provides further information to help local governments harmonize
+these laws with the Coastal Act. This memo will briefly discuss the authority that the Coastal Act
+grants the Commission and local governments over housing in the coastal zone, new legislation
+regarding J/ADUs, how local governments can streamline J/ADU applications under the Coastal
+Act, and some key issues that should be considered when LCP amendments for J/ADU
+2
+provisions are undertaken. This memo is intended to provide general guidance for local
+governments with fully certified LCPs. The Coastal Commission is responsible for Coastal Act
+review of J/ADUs in most areas that are not subject to a fully certified LCP. Local governments
+that have questions about specific circumstances not addressed in this memo should contact
+the appropriate district office of the Commission.
+II. Coastal Act Authority Regarding Housing in the Coastal Zone
+The Coastal Act has a variety of provisions directly related to housing. Relevant here, the
+Coastal Act does not negate local government compliance with state and federal law “with
+respect to providing low- and moderate-income housing, replacement housing, relocation
+benefits, or any other obligation related to housing imposed by existing law or any other law
+hereafter enacted.” (Pub. Res. Code § 30007.) The Coastal Act also requires the Coastal
+Commission to encourage housing opportunities for low- and moderate-income households
+(Pub. Res. Code § 30604(f)) but states that “[n]o local coastal program shall be required to
+include housing policies and programs. (Pub. Res. Code § 30500.1.) Finally, new residential
+development must be “located within, contiguous with, or in close proximity to, existing
+developed areas able to accommodate it” or in other areas where development will not have
+significant adverse effects on coastal resources. (Pub. Res. Code § 30250.)
+While the Commission does not currently have the explicit authority to provide or protect
+affordable housing in the coastal zone, the Commission has continued to preserve existing
+density and affordable housing whenever possible, including by supporting and encouraging the
+creation of J/ADUs. The creation of new J/ADUs in existing residential areas is one of many
+strategies that aims to increase the housing stock, including creating additional housing units of
+a type and size that can be more affordable than other forms of housing in the coastal zone, in
+a way that may be able to avoid significant adverse impacts on coastal resources.
+III. Overview of New Legislation
+As of January 1, 2020, AB 68, AB 587, AB 881, AB 670, AB 671, and SB 13 collectively updated
+existing Government Code Sections 65852.2 and 65852.22 concerning local government review
+and approval of J/ADUs, and as of January 1, 2021, AB 3182 further updated the same laws,
+with the goal of increasing statewide availability of smaller, and potentially more affordable,
+housing units. Importantly, some of the changes affect local governments in the coastal zone
+and are summarized below.
+• Local governments continue to have the discretion to adopt J/ADU provisions that are
+consistent with state law, and they may include specific requirements for protecting
+coastal resources and addressing issues such as design guidelines and protection of
+historic structures.
+• Outside of an LCP context, existing or new J/ADU provisions that do not meet the
+requirements of the new legislation are null and void and will be substituted with the
+3
+provisions of Section 65852.2(a) until the local government comes into compliance with
+new provisions. (Gov. Code § 65852.2(a)(4).) However, existing J/ADU provisions
+contained in certified LCPs are not superseded by Government Code Section 65852.2
+and continue to apply to Coastal Development Permit (CDP) applications for J/ADUs
+until the LCP is modified. Coastal jurisdictions without any J/ADU provisions or with
+existing J/ADU provisions that were adopted prior to January 1, 2020 are encouraged to
+update their LCPs to comply with the State’s new laws. Such new or updated LCP
+provisions need to ensure that new J/ADUs will protect coastal resources in the manner
+required by the Coastal Act and LCP, including, for example, by ensuring that new
+J/ADUs are not constructed in locations where they would require the construction of
+shoreline protective devices, in environmentally sensitive habitat areas and wetlands, or
+in areas where the J/ADU’s structural stability may be compromised by bluff erosion,
+flooding, or wave uprush over the structure’s lifetime.
+• A major change to Section 65852.2 is that the California Department of Housing and
+Community Development (HCD) now has an oversight role to ensure that local J/ADU
+provisions are consistent with state law. If a local government adopts an ordinance that
+HCD deems to be non-compliant with state law, HCD can notify the Office of the
+Attorney General. (Gov. Code § 65852.2(h)(3).) To ensure a smooth process, local
+governments should submit their draft J/ADU provisions to HCD and Coastal
+Commission staff to review for housing law and Coastal Act consistency before they are
+adopted locally and should continue to foster a three-way dialogue regarding any
+potential issues identified. Additionally, Coastal Commission and HCD staff meet
+regularly to discuss and resolve any issues that arise in the development of J/ADU
+provisions in the coastal zone. The Commission continues to prioritize J/ADU LCP
+amendments, and some may qualify for streamlined review as minor or de minimis
+amendments. (Pub. Res. Code § 30514(d); 14 Cal. Code Regs. § 13554.)
+• In non-coastal zone areas, local governments are required to provide rapid, ministerial
+approval or disapproval of applications for permits to create J/ADUs, regardless of
+whether the local government has adopted updated J/ADU provisions. (Gov. Code §
+65852.2(a)(3).) In the coastal zone, CDPs are still necessary in most cases to comply with
+LCP requirements (see below); however, a local public hearing is not required, and local
+governments are encouraged to streamline J/ADU processes as much as feasible.
+Other recent legislative changes clarify that local J/ADU provisions may not require a minimum
+lot size; owner occupancy of an ADU (though if there is an ADU and a JADU, one of them must
+be owner-occupied); fire sprinklers if such sprinklers are not required in the primary dwelling; a
+maximum square footage of less than 850 square feet for an ADU (or 1,000 square feet if the
+ADU contains more than one bedroom); and in some cases, off-street parking. Section
+65852.2(a) lists additional mandates for local governments that choose to adopt a J/ADU
+4
+ordinance, all of which set the “maximum standards that local agencies shall use to evaluate a
+proposed [ADU] on a lot that includes a proposed or existing single-family dwelling.” (Gov. Code
+§ 65852.2(a)(6).) As indicated above, in specific cases coastal resource considerations may
+negate some such requirements, but only when tied to a coastal resource impact that would
+not be allowed under the Coastal Act and/or the LCP. In recent LCP amendments, these types of
+considerations have most often arisen in terms of the off-street parking provisions (see below).
+IV. General Guidance for Reviewing J/ADU Applications
+The following section lays out the general permitting pathway in which local governments can
+process J/ADU applications in a manner that is consistent with Coastal Act requirements and
+LCP provisions.
+1) Check prior CDP history for the site.
+Determine whether a CDP or other form of Coastal Act/LCP authorization was previously
+issued for development of the site and whether that CDP and/or authorization limits, or
+requires a CDP or CDP amendment for, changes to the approved development or for future
+development or uses of the site. The applicant should contact the appropriate Coastal
+Commission district office if a Commission-issued CDP and/or authorization affects the
+applicant’s ability to apply for a J/ADU.
+2) Determine whether the proposed J/ADU constitutes “development.”
+As defined by the Coastal Act, development refers to both “the placement or erection of
+any solid material or structure” on land as well as any “change[s] in the density or intensity
+of use of land[.]” (Pub. Res. Code § 30106.) Most J/ADUs constitute development if they
+include, for example, new construction of a detached ADU, new construction of an attached
+J/ADU, or conversion of an existing, uninhabitable, attached or detached space to a J/ADU
+(such as a garage, storage area, basement, or mechanical room). The construction of new
+structures constitutes the “placement or erection of solid material,” and the conversion of
+existing, uninhabitable space would generally constitute a “change in the density or
+intensity of use.” Therefore, these activities would generally constitute development in the
+coastal zone that requires a CDP or other authorization. (Pub. Res. Code § 30600.)
+Unlike new construction, the conversion of an existing, legally established habitable space
+to a J/ADU within an existing residence, without removal or replacement of major structural
+components (e.g., roofs, exterior walls, foundations, etc.), and which does not change the
+intensity of use of the structure, may not constitute development within the definition in
+the Coastal Act. An example of a repurposed, habitable space that may not constitute new
+development (and thus does not require Coastal Act or LCP authorization) is the conversion
+of an existing bedroom within a primary structure. 
+
+Previously circulated Commission J/ADU memos (being superseded and replaced by this
+memo) indicated that construction or conversion of a J/ADU contained within or directly
+attached to an existing single-family residence (SFR) may qualify as development that
+was exempt from the requirement to obtain a CDP. Specifically, the Coastal Act and the
+Commission’s implementing regulations identify certain improvements to existing SFRs
+that are allowed to be exempted from CDP requirements (Pub. Res. Code § 30610(a); 14
+Cal. Code Regs § 13250.) Although the Commission has previously certified some LCP
+amendments that permitted certain exemptions for such ADU development, in a recent
+action, the Commission reevaluated its position and found that “the creation of a selfcontained living unit, in the form of an ADU, is not an ‘improvement’ to an existing SFR.
+Rather, it is the creation of a new residence. This is true regardless of whether the new
+ADU is attached to the existing SFR or is in a detached structure on the same property.” 1
+On this basis, and based on the finding that a variety of types of J/ADUs—including both
+attached and detached J/ADUs—could have coastal resource impacts that make
+exemptions inappropriate, it rejected the local government’s proposed exemptions for
+certain J/ADUs. Local governments considering updating LCP J/ADU provisions should
+consider the Commission’s recent stance regarding exemptions for ADUs and may work
+with Commission staff to determine the best way to proceed on this issue.
+
+3) If the proposed J/ADU constitutes development, determine whether a CDP waiver or
+other type of expedited processing is appropriate.
+If a local government’s LCP includes a waiver provision, and the proposed J/ADU meets the
+criteria for a CDP waiver, the local government may issue a CDP waiver for the proposed
+J/ADU. The Commission has generally allowed a CDP waiver for proposed J/ADUs if the
+Executive Director determines that the proposed development is de minimis (i.e., it is
+development that has no potential for any individual or cumulative adverse effect on
+coastal resources and is consistent with all Chapter 3 policies of the Coastal Act). Such a
+finding can typically be made when the proposed J/ADU project has been sited, designed,
+and limited in such a way as to ensure any potential impacts to coastal resources are
+avoided (such as through habitat and/or hazards setbacks, provision of adequate off-street
+parking to ensure that public access to the coast is not impacted, etc.). (See Pub. Res. Code
+§ 30624.7.) Projects that qualify for a CDP waiver typically allow for a reduced evaluation
+framework and streamlined approval.
+
+Most, if not all, LCPs with CDP waiver provisions do not allow for waivers in areas where
+local CDP decisions are appealable to the Coastal Commission. There have been a variety of
+reasons for this in the past, including that the Commission’s regulations require that local
+governments hold a public hearing for all applications for appealable development (14 Cal.
+Code Regs § 13566), and also that development in such areas tends to raise more coastal
+resource concerns and that waivers may therefore not be appropriate. However, under the
+state’s J/ADU provisions, public hearings are not required for qualifying development. 
+Because of this, the above-described public hearing issue would not be a concern, so it
+could be appropriate for LCPs to allow CDP waivers in both appealable and non-appealable
+areas at least related to this criterion. Local governments should consult with Commission
+staff should they consider proposing CDP waiver provisions in their LCP. Any LCP
+amendment applications that propose to allow waivers in appealable areas should ensure
+that there are appropriate procedures for notifying the public and the Commission
+regarding approvals of individual, appealable waivers (such as Final Local Action Notices) so
+that the proper appeal period can be set, and any appeals received are properly considered.
+The Coastal Act also provides for other streamlined processing for certain types of
+development, including for minor development. (Pub. Res. Code § 30624.9.) In certain
+cases, categories of development can also be excluded from CDP requirements if certain
+criteria are met (see box). In any case, local governments without such CDP waiver and
+other processing and streamlining tools are encouraged to work with Commission staff to
+amend their LCP to include such measures.
+Coastal Act section 30610(e) allows certain categories of development that are specified
+in Commission-approved Categorical Exclusion (Cat Ex) Orders to be excluded from CDP
+requirements, provided that the category of development has no potential for any
+significant adverse effect, either individually or cumulatively, on coastal resources. (See
+also 14 Cal. Code Regs §§ 13240 et seq.)
+Cat Ex Orders apply to specific types of development within identified geographical
+locations. For example, the Commission may approve a Categorical Exclusion for J/ADUs
+that would normally require a CDP (i.e., it is defined as development) because that
+specific development type in that specific geographic area can be demonstrated to not
+result in individual and/or cumulative coastal resource impacts. Cat Ex Orders are
+prohibited from applying to: tide and submerged lands; beaches; lots immediately
+adjacent to the inland extent of any beach; lots immediately adjacent of the mean high
+tide line of the sea where there is no beach; and public trust lands.
+Cat Ex Orders provide another potential means of streamlining J/ADU consideration, and
+interested local governments should consult with Commission staff if they intend to
+propose such an Order. Cat Ex Orders are processed separately from LCP amendments,
+require a 2/3 vote of the Commission to be approved, and are typically subject to
+conditions. Once approved, the local government is responsible for reviewing
+development that might be subject to the Cat Ex Order and is typically required to report
+any exclusions applied pursuant to the Order to the Commission for review by the
+Executive Director and for an appeal period before they can become effective. It is
+important to note that while Cat Ex Orders can be a powerful tool if approved, the
+Commission must be able to conclude that the specific category of development in a
+specific geographic area has no potential for any significant adverse coastal resources
+impacts in order to approve one. Thus, the local government pursuing a Cat Ex Order
+must provide supporting documentation and evidence that can conclusively show that to
+be the case.
+7
+4) If a full CDP is required, review CDP application for consistency with certified LCP
+requirements.
+If a proposed J/ADU constitutes development and cannot be processed as a waiver or
+similar expedited Coastal Act approval authorized in the certified LCP, it requires a CDP. The
+CDP must be consistent with the requirements of the certified LCP and, where applicable,
+the public access and recreation policies of the Coastal Act. The local government must then
+provide the required public notice for any CDP applications for J/ADUs and process the
+application pursuant to LCP requirements, but should process it within the time limits
+contained in the ADU law, if feasible. However, local governments are not required to hold
+a public hearing on CDPs for ADUs. (Gov. Code § 65852.2(l).) Once the local government has
+issued a decision, it must send the required final local action notice to the appropriate
+district office of the Commission. If the CDP is appealable, a local government action to
+approve a CDP for the ADU may be appealed to the Coastal Commission. (Pub. Res. Code §
+30603.)
+V. Key Considerations
+Per Government Code Section 65852.2, subd. (l), known as the Coastal Act Savings Clause, the
+State’s new ADU requirements shall not be “construed to supersede or in any way alter or
+lessen the effect or application of the California Coastal Act of 1976.” There are a number of
+key issues that local governments should account for in order to ensure their LCP J/ADU
+provisions are consistent with the requirements in the Coastal Act. This section addresses some
+of the key issues that the Commission has dealt with recently, including public coastal access
+parking requirements and protection of sensitive habitats and visual qualities. Local
+governments are encouraged to contact their local Coastal Commission district office for
+further assistance.
+Protection of public recreational access in relation to parking requirements
+Government Code Section 65852.2 requirements regarding parking for J/ADUs are as follows:
+a. One parking space is required per unit or per bedroom, whichever is less. The parking
+space can be a tandem space in an existing driveway.
+b. When a garage, carport, or covered parking structure is demolished in conjunction with
+the construction of an ADU, no replacement parking space(s) are required.
+However, Section 65852.2 further stipulates that the parking requirements listed above do not
+apply to ADUs constructed:
+a. Within ½ mile walking distance of public transportation stops/routes;
+b. Within a historic district;
+c. Within a primary residence or accessory structure;
+d. When on-street parking permits are required but not offered to the occupant of the
+ADU;
+8
+e. And where a car-share vehicle is located within one block of the ADU.
+Thus, the Government Code limits the circumstances when a local government can require a
+J/ADU project to address its parking needs onsite. This is a departure from most local
+government parking requirements which often explicitly specify the number of off-street
+parking spaces that must be provided onsite in any particular development, including
+residential development. The potential outcome is that private residential J/ADU parking needs
+can be shifted onto adjacent public streets. At the same time, the Coastal Act contains
+objectives and policies designed to protect and provide for maximum coastal access
+opportunities, which includes maintaining sufficient public coastal parking, including as
+implemented through LCP off-street parking provisions. The addition of J/ADUs may interfere
+with coastal public street parking availability if, for example, a garage is converted to a J/ADU
+and parking is not replaced onsite, in addition to the J/ADU parking demand itself. The
+Commission has often found that when private residential parking needs are not
+accommodated onsite, it can lead to increased use of on-street parking to address such needs,
+thereby reducing the availability of on-street parking to the general public. This may adversely
+affect public coastal access if it occurs in high visitor-serving areas and/or areas with significant
+public recreational access opportunities, and where on-street parking is heavily used. The result
+will be that the general public could be displaced from on-street parking by J/ADU parking
+needs, which may violate the Coastal Act’s requirements to protect, provide, and maximize
+public coastal access and recreational opportunities. In many impacted coastal neighborhoods,
+development patterns over the years have not adequately accounted for off-street parking
+needs, and adding J/ADU parking to the mix will only exacerbate such public parking difficulties.
+Additionally, because general on-street parking is typically free or lower cost compared to other
+public parking facilities, J/ADU construction may also interfere with maintaining lower cost
+coastal access for all.
+In order to avoid conflicts regarding parking requirements for J/ADUs as they may impact public
+access, local governments are encouraged to work with Commission staff to identify or map
+specific neighborhoods and locations where there is high visitor demand for public on-street
+parking needed for coastal access and to specify parking requirements for each such area that
+harmonizes Government Code requirements with the Coastal Act (and any applicable LCP
+policies). These maps can denote areas that supply important coastal public parking and access
+opportunities, and require that J/ADU development in these areas ensure that private
+residential parking needs are accommodated off-street. Importantly, such upfront LCP mapping
+and provisions allow the local government to address impacts to public access and parking
+supply without the need for a protracted, or even necessarily a discretionary, decision. The
+Commission has previously found that local governments may include specific off-street parking
+requirements for J/ADUs constructed in these locations and may also require maintenance of
+all off-street parking for the primary residence (see examples below). However, harmonizing
+the distinct priorities between the Coastal Act’s protection of public coastal access and the
+J/ADU provisions on parking requirements will require a case-by-case consideration of the
+specific circumstances of each jurisdiction.
+9
+Protection of sensitive habitats and visual qualities; avoidance of hazards
+While most J/ADU projects take place within established residential neighborhoods where
+potential coastal resource impacts are fairly limited, there can be cases where such projects
+may affect significant coastal resources, such as sensitive habitats and shorelines and beaches.
+As a general rule, LCPs include many provisions protecting such resources, and it is important
+that proposed J/ADU provisions are not structured to undo any such LCP protections that
+already apply. J/ADUs may need to be reviewed for specific siting and design standards,
+particularly in visually sensitive areas (such as the immediate shoreline, between the first public
+road and the sea, near LCP-designated scenic areas, etc.). Similarly, where sensitive habitat may
+be present, J/ADUs must be reviewed for impacts to such habitat, including with respect to fuel
+modification for defensible space. Additionally, local governments should include provisions for
+J/ADUs constructed in areas vulnerable to sea level rise and other coastal hazards which ensure
+not only that these structures will meet all LCP requirements for new development to be safe
+from such hazards, but that also addresses the need for future sea level rise adaptations
+(including future accommodation or removal, risk disclosure conditions on the J/ADU, and any
+other risk-related issues dealt with in the LCP).
+VI. Examples of Recently Updated ADU Provisions in Certified LCPs
+A number of local jurisdictions have recently updated their LCPs to include new J/ADU
+provisions. Coastal Commission staff reports are linked below, which summarize specific issues
+that arose between Coastal Act requirements and the new J/ADU provisions as well as the
+necessary changes that were made in order to harmonize each jurisdiction’s LCP with the
+State’s housing laws. The suggested modifications shown in the staff reports were all approved
+by the Coastal Commission.
+City of Santa Cruz (approved May 2021). This LCP amendment included clarifying language to
+address which provisions of the new state housing laws applied to ADUs in the coastal zone of
+the City of Santa Cruz as well as ensuring that the coastal resource protection provisions of the
+City’s current LCP are maintained. The amendment also addressed specific off-street parking
+requirements for ADUs sited near significant coastal visitor destinations. The City of Santa Cruz
+adopted the Commission’s modifications in August 2021.
+City of Pacifica (approved June 2021). This LCP amendment revised the City’s Implementation
+Plan to incorporate J/ADU provisions that are in line with the updated state housing laws,
+including streamlined procedures for J/ADU review and permitting processing, providing J/ADU
+development standards, and crafting tailored modifications to address specific public access
+parking needs in key visitor destination areas. The City of Pacifica adopted the Commission’s
+modifications in August 2021.
+County of San Mateo (approved July 2021). This LCP amendment incorporated more specific
+ADU regulations relating to size limits, maximum number of J/ADUs permitted per lot,
+streamlined review and process of J/ADU permits, and parking availability in areas that are
+10
+significant coastal visitor destinations. The County of San Mateo adopted the Commission’s
+modifications in September 2021.
+City of Encinitas (approved August 2021). The Coastal Commission approved revisions to the
+City of Encinitas’ Implementation Plan that updated existing definitions for ADUs and JADUs
+and clarified development standards for accessory units, including standards for size, height,
+and setbacks.
+City of Santa Barbara (approved December 2021). The Coastal Commission approved
+Commission staff’s revision of the City of Santa Barbara’s LCP amendment submittal addressing
+updated ADU provisions to be consistent with state housing laws. The amendment revised
+J/ADU terms and definitions, building standards, parking requirements, and permitting review
+and processing procedures. The staff report included modifications that address the CDP
+exemption issue (discussed above).

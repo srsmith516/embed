@@ -1,0 +1,4 @@
+delmar_adu.txt - text from the landing page on del mar ADUs - https://www.delmar.ca.us/642/Accessory-Dwelling-Units-ADUs
+sb9 - bill text from sb9
+sb10 - bill text from sb10
+adu_letter.txt - a letter from gavin newsom that outlines the interaction between the coastal comission and the new ADU laws
